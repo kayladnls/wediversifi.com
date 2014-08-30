@@ -1,6 +1,13 @@
+### LARAVEL STUFF ###
 /vendor
 composer.phar
 composer.lock
 .env.*
 .DS_Store
 Thumbs.db
+
+### EDITOR STUFF ###
+.settings
+.buildpath
+.nbproject
+.idea
