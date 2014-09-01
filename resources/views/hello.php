@@ -30,7 +30,7 @@
                             class="octicon octicon-link"></span></a>The spark</h2>
 
                 <p>Kayla (<a href="http://www.twitter.com/kayladnls">@kayladns</a>) and I (<a
-                        href="http://www.twitter.com/kayladnls">@gabidavila</a>) were in <a href="http://laracon.eu">LaraconEU</a>
+                        href="http://www.twitter.com/gabidavila">@gabidavila</a>) were in <a href="http://laracon.eu">LaraconEU</a>
                     2014 talking to <a href="http://www.twitter.com/stauffermatt">Matt Stauffer</a>, and it was a
                     conversation post a <a
                         href="http://www.slideshare.net/gabidavila/coding-like-a-girl?qid=7e7ce085-0fb4-4cfe-97f3-118f6489b311&amp;v=default&amp;b=&amp;from_search=1">diversity
@@ -135,7 +135,7 @@
                                 </strong>
                                 <ul>
                                     <li><input type="radio" value="Contribute &amp; Stay Informed" name="IWANTTO"
-                                               id="mce-IWANTTO-0"><label for="mce-IWANTTO-0">Contribute &amp; Stay
+                                               id="mce-IWANTTO-0"><label for="mce-IWANTTO-0"> Contribute &amp; Stay
                                             Informed</label>
                                     </li>
                                     <li><input type="radio" value="Only Stay Informed" name="IWANTTO"
